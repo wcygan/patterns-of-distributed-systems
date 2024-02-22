@@ -1,0 +1,1 @@
+https://martinfowler.com/articles/patterns-of-distributed-systems/segmented-log.html
